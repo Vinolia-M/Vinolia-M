@@ -1,16 +1,12 @@
 ## Hi there 👋
+<p>Creative and detail-oriented Frontend Developer with 3+ years of experience
+building responsive, user-friendly web applications. Proficient in React,
+TypeScript, and Tailwind CSS, with a strong focus on performance optimization
+and intuitive UI/UX design. Skilled in integrating frontend and backend systems
+using GraphQL and REST APIs. Adept at collaborating with cross-functional teams
+to deliver high-quality products on time. Passionate about continuous learning
+and staying current with industry trends, I bring a proactive approach to
+problem-solving, aiming to create engaging digital experiences that exceed user
+expectations.</p>
 
-<!--
-**Vinolia-M/Vinolia-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>TECH STACK</h1>
