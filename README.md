@@ -10,4 +10,4 @@ problem-solving, aiming to create engaging digital experiences that exceed user
 expectations.</p>
 
 <h1>TECH STACK</h1>
-<img src="" alt="">
+<img src="react-icons.svg" alt="">
